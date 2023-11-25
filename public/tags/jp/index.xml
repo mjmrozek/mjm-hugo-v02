@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>jp on Matthäus J. Mrozek</title>
+    <link>https://example.org/tags/jp/</link>
+    <description>Recent content in jp on Matthäus J. Mrozek</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Sep 2023 16:27:56 +0100</lastBuildDate><atom:link href="https://example.org/tags/jp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Analyzing JP’s ’12 Rules for Life’ – 3 (Preface, Paragraph 1)</title>
+      <link>https://example.org/posts/jp3/</link>
+      <pubDate>Sun, 17 Sep 2023 16:27:56 +0100</pubDate>
+      
+      <guid>https://example.org/posts/jp3/</guid>
+      <description>During my time at university, I was constantly overwhelmed. Family, financial, and health issues, a physically demanding part-time job in a warehouse, exam stress at university, and a slew of other tasks and duties weighed on me so much that I lost my zest for life and often didn’t even want to get out of bed in the morning. In search of help in simplifying my life, Google quickly pointed me to an article from a psychology magazine that answered the question: “Getting through life with just two rules: Is it possible?</description>
+    </item>
+    
+    <item>
+      <title>Analyzing JP’s ’12 Rules for Life’ – 2 (Introduction: Reasons for my JP Posts)</title>
+      <link>https://example.org/posts/jp2/</link>
+      <pubDate>Fri, 08 Sep 2023 16:27:44 +0100</pubDate>
+      
+      <guid>https://example.org/posts/jp2/</guid>
+      <description>Why should one read my JP series? I anticipate this very probable and reasonable question from my intrigued website visitors. I hereby present some features, ideas, characteristics, etc., and thus explain my approach to analyzing the book by describing it.
+A practical book, like a guide to successful Bonsai care, focuses on a small, particularly delicate, beautiful, yet relatively simple subject. Accordingly, a directive like “Trim the leaves regularly with a specialized scissors.</description>
+    </item>
+    
+    <item>
+      <title>Analyzing JP’s ’12 Rules for Life’ – 1 (Introduction: My Reasons for Reading)</title>
+      <link>https://example.org/posts/jp1/</link>
+      <pubDate>Wed, 30 Aug 2023 16:27:32 +0100</pubDate>
+      
+      <guid>https://example.org/posts/jp1/</guid>
+      <description>My initial encounter with JP might be considered unusual. At some point, YouTube, for reasons unknown, directed my attention to a hearing in the Canadian Senate regarding Bill C-16. It wasn’t the content of the hearing that struck me but rather how JP presented himself. Surrounded by politicians, experts, lawyers, etc., he defended himself, counter-attacked, argued, and provided information. To me, it seemed as if a group of exceptionally intelligent individuals pooled their intellectual might and yet faltered before a single individual.</description>
+    </item>
+    
+  </channel>
+</rss>

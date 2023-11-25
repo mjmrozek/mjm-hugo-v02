@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>clarification on Matthäus J. Mrozek</title>
+    <link>https://example.org/tags/clarification/</link>
+    <description>Recent content in clarification on Matthäus J. Mrozek</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 May 2023 16:19:30 +0100</lastBuildDate><atom:link href="https://example.org/tags/clarification/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Personal or professional website?</title>
+      <link>https://example.org/posts/hub/</link>
+      <pubDate>Sat, 20 May 2023 16:19:30 +0100</pubDate>
+      
+      <guid>https://example.org/posts/hub/</guid>
+      <description>This website is a hub, but not in the way a switch star-connects network nodes; it’s more like a person in an immutable center, seemingly chaotically amalgamating various areas of life, or fields, within itself.
+From the menu, it’s clear where everything is located, allowing a friend to effortlessly find an essay, and a potential client to swiftly access my portfolio, which predominantly contains IT projects.
+For many years, I was a student, then an employee.</description>
+    </item>
+    
+  </channel>
+</rss>
