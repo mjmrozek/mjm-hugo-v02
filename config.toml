@@ -4,7 +4,6 @@ title = 'Matthäus J. Mrozek'
 theme = 'PaperMod'
 
 [params]
-  showReadingTime = true
   showShareButtons = true
   showPostNavLinks = true
   showBreadCrumbs = true
