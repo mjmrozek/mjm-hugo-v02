@@ -9,6 +9,8 @@ draft = false
 
 Obsessed with literature, enthusiastic about technology; Studies in philosophy & product development; MBSE expert; Focus on early SDLC phases  
 
+![Alt-Text für das Bild](/img/about-dalle-1.jpeg)
+
 ---
 
 **Contact**  
@@ -51,3 +53,60 @@ Under certain circumstances, I might answer some points in detail through blog p
 - 05.2021 - 12.2021 Technion – Israel Institute of Technology (IsraelX @ edX): Professional Certificates in MBSE (Systems Engineering, OPM, ISO 19450)  
 - 2009 - 2019 FernUniversität in Hagen: Bachelor of Arts (B.A.) in Cultural Studies (KuWi > Philo. > th. Philo. > Linguistic Philo. (Thinking & Language, Use Theory) and Heuristics)
 
+---
+
+**Hobbies**  
+
+1. Fiction Literature  
+
+![Alt-Text für das Bild](/img/about-books-1.jpg)
+
+The following list of books I’ve read and thoroughly processed is not random, but incomplete and spontaneously reconstructed from memory. Like the photo, it is intended to provide only a first impression.
+
+(Where necessary, the original titles are provided in parentheses.)
+
+- Joyce: Ulysses
+- Melville: Moby Dick
+- Bible
+- Bulgakow: Der Meister und Margarita (Мастер и Маргарита / Master i Margarita)
+- Goethe
+    - Der Werther
+    - Die Wahlverwandtschaften
+    - Wilhelm Meisters Lehrjahre
+    - Novelle und Märchen
+    - Hermann und Dorothea
+    - Dichtung und Wahrheit
+- Kafka
+    - Das Schloss 
+    - Der Verschollene 
+    - Der Prozess 
+    - Erzählungen 
+    - Briefe an Milena
+    - Briefe an Felice
+    - Amtliche Schriften
+    - Tagebücher
+    - Stachs Biografie
+- …
+- Helbig: Erinnertes Leben
+- Proust: Auf der Suche nach der verlorenen Zeit (À la recherche du temps perdu)  
+<br><br>  
+<br><br>
+
+
+2. High-End Audio  
+
+![Alt-Text für das Bild](/img/about-earphones-1.jpg)
+
+The latest equipment is at the top. Of course, the quality is descending.
+
+- Planned: Campfire Audio Satsuma In-Ear Monitors and iPhone
+- 2021 Apple MacBook Pro and Tin Hifi T2 IEMs
+- Huawei MateBook D & Beyerdynamic DT 770 Pro 80 Ohm
+- Mobile Music Setup: Huawei P30 Pro, AudioQuest DragonFly Black DAC, Samsung S6 & Bowers & Wilkins P3 On-Ear Headphones
+- Asus Laptop & AKG K 272 HD
+- DIY and Music System: VISATON CLOU Speaker Kit, Udo Wohlgemuth (Acoustic Design) Vota 1, BPA Needle and Onkyo 5.1 Receiver
+- Home Theater: Onkyo 5.1 Receiver, Sony MiniDisc-Player MDS-JE510, Quadral 5.1 Sound System
+- Sony MiniDisc Portable MZR with Earbuds
+- SONY MDR-CD270 Headphones @Aiwa NSX 999 4.0 Stereo System
+- Sony WALKMAN WM FX415 with Radio and Earbuds
+- Aiwa WM MC Cassette Stereo Walkman with Earbuds

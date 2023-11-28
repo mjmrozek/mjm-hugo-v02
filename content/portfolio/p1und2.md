@@ -1,5 +1,5 @@
 +++
-title = 'Project 1 & 2: DIY PC Build'
+title = 'DIY PC Build (Project #1 & #2)'
 weight = 12
 draft = false
 +++
