@@ -29,7 +29,6 @@ Should any legal infringement become known to me, I will remove the offending co
 
 Personal data provided to me through contact inquiries is solely used to respond to these inquiries. Any further use only occurs with explicit consent.
 
-This disclaimer is a simplified statement and may not cover all specific aspects. Consulting a legal advisor is recommended for comprehensive coverage according to local laws.
 
 ---
 

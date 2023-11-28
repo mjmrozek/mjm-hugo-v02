@@ -14,8 +14,6 @@ theme = 'PaperMod'
   amalgamating various areas of life, or fields, within itself. From the menu, it’s clear where everything is located, allowing a **friend** to effortlessly find an **essay**, and a potential 
   **client** to swiftly access my **portfolio**, which predominantly contains **IT projects**. [Read more...](/posts/hub/)"""
 
-[outputs]
-  home = ["HTML", "RSS", "JSON"] # is necessary
 
 [params.cover]
   linkFullImages = true
@@ -94,7 +92,3 @@ name = "Tags"
 url = "/tags/"
 weight = 3
 
-[[menu.main]]
-name = "Search"
-url = "/search/"
-weight = 8
