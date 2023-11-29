@@ -3,6 +3,10 @@ img {
     border: 1px solid black;
 }
 
+img.no-border {
+    border: none;
+  }
+
 
 .youtube-video {
     position: relative;
@@ -19,3 +23,5 @@ img {
     width: 100%;
     height: 100%;
 }
+
+
