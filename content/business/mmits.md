@@ -4,7 +4,9 @@ title = "IT Solutions"
 draft = false
 +++
 
-![Alt-Text für das Bild](/img/mmits-it-logo.png)  
+
+![Alt-Text](/img/mmits-it-logo.png)
+
 
 
 

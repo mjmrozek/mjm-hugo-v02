@@ -11,8 +11,7 @@ theme = 'PaperMod'
  [params.homeInfoParams]
   Title = "Blogging & IT Solutions"
   Content = """This **website** is a **hub**, but not in the way a switch star-connects network nodes; it’s more like a **person** in an immutable **center**, seemingly chaotically 
-  amalgamating various areas of life, or fields, within itself. From the menu, it’s clear where everything is located, allowing a **friend** to effortlessly find an **essay**, and a potential 
-  **client** to swiftly access my **portfolio**, which predominantly contains **IT projects**. [Read more...](/posts/hub/)"""
+  amalgamating various areas of life, or fields, within itself. [Read more...](/posts/hub/)"""
 
 
 [params.cover]

@@ -4,7 +4,7 @@ weight = 12
 draft = false
 +++
 
-**Goal:** Affordable, reliable, powerful and easily expandable computers for office and multimedia 
+**Objectives:** Affordable, reliable, powerful and easily expandable computers for office and multimedia 
 
 
 {{< youtube cWXvjxUugzc >}}  
