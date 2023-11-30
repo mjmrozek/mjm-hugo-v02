@@ -13,7 +13,7 @@ I offer a range of technical services focused on the early stages of the Softwar
 
 **Imprint:**  
 
-Matthäus Mrozek  
+Matthäus J. Mrozek  
 c/o Grosch Postflex #2362  
 Emsdettener Str. 10  
 48268 Greven  
@@ -29,4 +29,4 @@ USt-IdNr.: DE342900786
 </br></br> 
 
 {{< image src="/img/mmits-it-logo.png" alt="Alt-Text für das Bild" class="no-border" >}}
-*Fig. 1: Logo of Mrozek, IT Solutions*
+*Fig. 1: Logo of "Mrozek, IT Solutions"*

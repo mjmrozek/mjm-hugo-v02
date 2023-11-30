@@ -5,6 +5,7 @@ theme = 'PaperMod'
 
 [params]
   showPostNavLinks = true
+  showShareButtons = true
   showBreadCrumbs = true
   mainSections = ["posts"]
 
@@ -14,8 +15,7 @@ theme = 'PaperMod'
   amalgamating various areas of life, or fields, within itself. [Read more...](/posts/hub/)"""
 
 
-[params.cover]
-  linkFullImages = true
+
 
 
 
