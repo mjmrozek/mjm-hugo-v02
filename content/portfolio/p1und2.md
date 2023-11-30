@@ -7,7 +7,8 @@ draft = false
 **Objectives:** Affordable, reliable, powerful and easily expandable computers for office and multimedia 
 
 
-{{< youtube cWXvjxUugzc >}}  
+{{< youtube cWXvjxUugzc >}}
+*Fig. 1: Project result in video*
 
 ---
 

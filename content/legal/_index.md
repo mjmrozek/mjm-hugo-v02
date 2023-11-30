@@ -7,7 +7,7 @@ draft = false
 
 **Imprint**  
 
-Matthäus Mrozek  
+Matthäus J. Mrozek  
 c/o Grosch Postflex #2326  
 Emsdettener Str. 10  
 48268 Greven  
