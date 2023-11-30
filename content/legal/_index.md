@@ -5,7 +5,7 @@ draft = false
 +++
 
 
-**Imprint**  
+**Imprint:**  
 
 Matthäus J. Mrozek  
 c/o Grosch Postflex #2326  
@@ -19,7 +19,7 @@ Phone: +49 177 456 7738
 
 ---
 
-**Disclaimer**  
+**Disclaimer:**  
 
 The content on my website is created with care, yet I cannot guarantee its accuracy, completeness, or timeliness.
 
@@ -32,7 +32,7 @@ Personal data provided to me through contact inquiries is solely used to respond
 
 ---
 
-**Terms of Use for My Content**  
+**Terms of Use for My Content:**  
 
 All content associated with me, regardless of the platform, is the intellectual property of Matthäus J. Mrozek.
 
@@ -50,7 +50,7 @@ Engagement with my content, be it via direct access or on any social network, im
 
 ---
 
-**AI Collaboration Disclosure**  
+**AI Collaboration Disclosure:**  
 
 I engage with advanced AI tools, including OpenAI's ChatGPT, to aid in the creation and refinement of content across my platforms. While I may present these contributions as part of my own body of work, I believe in transparency regarding the use of AI in my creative process.
 

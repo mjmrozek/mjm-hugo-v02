@@ -51,10 +51,6 @@ theme = 'PaperMod'
   name = "github"
   url = "https://github.com/mjmrozek"
 
-  [[params.socialIcons]]
-  name = "rss"
-  url = "https://musical-chaja-c35890.netlify.app/"
-
 
 [[menu.main]]
 name = "Blog"
