@@ -7,18 +7,8 @@ draft = false
 **Objectives:** Affordable, reliable, powerful and easily expandable computers for office and multimedia 
 
 
-{{< youtube cWXvjxUugzc >}}
+{{< youtube cWXvjxUugzc >}}  
 *Fig. 1: Project result in video*
-
----
-
-### ATX
-
-![Alt-Text für das Bild](/img/p1.1.jpg)  
-
-![Alt-Text für das Bild](/img/p1.2.jpg)  
-
-![Alt-Text für das Bild](/img/p1.3.jpg)  
 
 ---
 
@@ -44,5 +34,16 @@ draft = false
 
 ![Bildbeschreibung für p2.10](/img/p2.10.jpg)
 
-![Bildbeschreibung für p2.11](/img/p2.11.jpg)
+![Bildbeschreibung für p2.11](/img/p2.11.jpg)  
 
+
+---
+
+
+### ATX
+
+![Alt-Text für das Bild](/img/p1.1.jpg)  
+
+![Alt-Text für das Bild](/img/p1.2.jpg)  
+
+![Alt-Text für das Bild](/img/p1.3.jpg)  
