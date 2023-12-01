@@ -3,6 +3,8 @@ languageCode = 'en-us'
 title = 'Matthäus J. Mrozek'
 theme = 'PaperMod'
 
+
+
 [params]
   showPostNavLinks = true
   showShareButtons = true
@@ -13,7 +15,6 @@ theme = 'PaperMod'
   Title = "Blogging & IT Solutions"
   Content = """This **website** is a **hub**, but not in the way a switch star-connects network nodes; it’s more like a **person** in an immutable **center**, seemingly chaotically 
   amalgamating various areas of life, or fields, within itself. [Read more...](/posts/hub/)"""
-
 
 
 
@@ -86,4 +87,3 @@ weight = 2
 name = "Tags"
 url = "/tags/"
 weight = 3
-
